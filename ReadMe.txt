@@ -12,9 +12,9 @@ This is the code for paper "Face De-occlusion with Deep Cascade Guidance Learnin
 	This is test images we provide. You can use them to verificate our method. Of course, you can also test on your own dataset.
 6.enviroment
 	numpy                          1.17.1 
-	python                          3.6.8 
-	torch                              1.0.1.post2 
-	opencv-python         4.1.2.30
-	Pillow                            6.1.0
-	CUDA                             8.0.61
-	CUDNN		              5.1.5
+	python                         3.6.8 
+	torch                          1.0.1.post2 
+	opencv-python                  4.1.2.30
+	Pillow                         6.1.0
+	CUDA                           8.0.61
+	CUDNN		               5.1.5
