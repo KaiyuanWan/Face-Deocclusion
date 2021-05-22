@@ -3,7 +3,7 @@
 2.models
 	This folder contains two python file: 'generator.py' and 'ops.py'. The 'generator.py' consists of four parts, which are detection part, parsing part, reconstruction part, discriminator part. And 'ops.py' contains the operators used in 'generator.py'.
 3.trained_models
-	This file contains two trained models:'detect_parsing.pth.tar' for detection and parsing, 'reconstruction.pth.tar' for reconstruction. Because the supplementary materials have capacity limitation, so we put the trained model in an anonymous Google Drive, you can download the model by this url:
+	This file contains two trained models:'detect_parsing.pth.tar' for detection and parsing, 'reconstruction.pth.tar' for reconstruction. We put the trained model in Google Drive, you can download the model by this url:
 	(https://drive.google.com/drive/folders/1zNf6HATv3QtrKqGIQBq4af5qQAJ1RUcj?usp=sharing), and then put the trained model in this folder.
 4.result
 	The result will be saved in this folder.
@@ -15,5 +15,5 @@
 	torch                     1.0.1.post2 
 	opencv-python             4.1.2.30
 	Pillow                    6.1.0
-	CUDA 					  8.0.61
-	CUDNN					  5.1.5
+	CUDA                      8.0.61
+	CUDNN			  5.1.5
