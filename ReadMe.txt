@@ -1,3 +1,4 @@
+This is the code for paper "Face De-occlusion with Deep Cascade Guidance Learning".
 1.test.py : 
 	This python file is for testing. You just need replace the 'opt.test_dir' with your own test data path or using dataset proivided by us and the test file will output three files in './result' which are detect result(detect_mask), face parsing result(parsing_mask) and face de-occlusion result(rec_face), respectively.
 2.models
